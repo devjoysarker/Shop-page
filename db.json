@@ -1,0 +1,160 @@
+{
+  "products": [
+    {
+      "name": "Stylish Short Sleeve ",
+      "slug": "stylish-short-sleeve",
+      "regular_price": "300",
+      "sale_price": "150",
+      "shot_ds": "Grameen Fashion  is a trusted and reliable source for all your garment related needs from Bangladesh. Grameen Fashion  manufactures and supplies quality products in all categories at a competitive price range from their own and sister production facility. It's a  cotton t-shirt with a premium finishing goods.\n ",
+      "rating": "3",
+      "catagoryId": "8",
+      "tagId": "5",
+      "photo": "https://media.gettyimages.com/photos/blank-black-tshirt-front-with-clipping-path-picture-id483960103?s=612x612",
+      "id": 2
+    },
+    {
+      "name": "Fashionable Cotton Cream",
+      "slug": "fashionable-cotton-cream",
+      "regular_price": "600",
+      "sale_price": "500",
+      "shot_ds": "Alhamdulillah just got this. it looks nice and Very comfortable. recommended to u everyone",
+      "rating": "4",
+      "catagoryId": "9",
+      "tagId": "3",
+      "photo": "https://i.pinimg.com/736x/e8/e7/b3/e8e7b34d462ae74c54ccfc6768aae19e.jpg",
+      "id": 3
+    },
+    {
+      "name": "Readymade Round Stylish Fashionable Hot Kurti",
+      "slug": "readymade-round-stylish-fashionable-hot-kurti",
+      "regular_price": "600",
+      "sale_price": "",
+      "shot_ds": "সত্যি বলতে প্রোডাক্ট টা খুবই ভালো, কালার ঠিক ছবির মতোই। খুব সুন্দর ও লাগে। এককথায় দাম অনুযায়ী প্রোডাক্ট টা যথেষ্ট ভালো।",
+      "rating": "5",
+      "catagoryId": "10",
+      "tagId": "4",
+      "photo": "https://assets.ajio.com/medias/sys_master/root/20220726/9Qy1/62dee52caeb26921af9aa8ee/gulmohar_jaipur_indigo_floral_print_anarkali_kurta.jpg",
+      "id": 4
+    },
+    {
+      "name": "Men's Flip Flops JeansFellow",
+      "slug": "men-flip-flops-jeansfellow",
+      "regular_price": "5000",
+      "sale_price": "4900",
+      "shot_ds": "Yes, Sir. Available in our stock. It will take 3-5 days to deliver. ",
+      "rating": "4",
+      "catagoryId": "9",
+      "tagId": "7",
+      "photo": "https://static-01.daraz.com.bd/p/4f970d27cb9c86d7be8450f8eef4f616.jpg",
+      "id": 5
+    },
+    {
+      "name": " New Original Bluetooth Earphone",
+      "slug": "new-original-bluetooth-earphone",
+      "regular_price": "800",
+      "sale_price": "",
+      "shot_ds": "In order to improve your experience, it is recommended that you check the power of the earphones before each use. If the earphones cannot be turned on, please charge the earphones for 2 hours first. Our Team provide you with 6*12 hours service",
+      "rating": "4",
+      "catagoryId": "11",
+      "tagId": "6",
+      "photo": "https://images.unsplash.com/photo-1570993492903-ba4c3088f100?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Ymx1ZXRvb3RoJTIwZWFycGhvbmV8ZW58MHx8MHx8&w=1000&q=80",
+      "id": 6
+    },
+    {
+      "name": "Remote Control Sensor Helicopter Rechargeable",
+      "slug": "remote-control-sensor-helicopter-rechargeable",
+      "regular_price": "8000",
+      "sale_price": "5000",
+      "shot_ds": "প্রোডাক্ট ভাল। ছোট ব্যাটারি, চার্জ ও খুব কম থাকাটাই স্বাভাবিক। তবে একটা ম্যানুয়াল থাকার দরকার ছিল। রিমোট দিয়ে কোনভাবেই কন্ট্রোল করা যাচ্ছে না, সিলিং, ওয়াল সবজায়গা তে বাড়ি খাচ্ছে। বুঝতে পারছিনা, কিভাবে কন্ট্রোল করব...",
+      "rating": "5",
+      "catagoryId": "14",
+      "tagId": "2",
+      "photo": "https://sg-live-01.slatic.net/p/556a9381294ad6f6f0961d179c3bd34f.jpg",
+      "id": 7
+    }
+  ],
+  "catagory": [
+    {
+      "id": 6,
+      "name": "fasion",
+      "slug": "fasion"
+    },
+    {
+      "id": 7,
+      "name": "Mobile",
+      "slug": "mobile"
+    },
+    {
+      "id": 8,
+      "name": "Fasion-Pro-Degine",
+      "slug": "fasion-pro-degine"
+    },
+    {
+      "id": 9,
+      "name": "Men",
+      "slug": "men"
+    },
+    {
+      "id": 10,
+      "name": "Women",
+      "slug": "women"
+    },
+    {
+      "id": 11,
+      "name": "Electronics",
+      "slug": "electronics"
+    },
+    {
+      "id": 12,
+      "name": "Laptop",
+      "slug": "laptop"
+    },
+    {
+      "id": 13,
+      "name": "All-shos",
+      "slug": "all-shos"
+    },
+    {
+      "id": 14,
+      "name": "Baby",
+      "slug": "baby"
+    }
+  ],
+  "tag": [
+    {
+      "id": 2,
+      "name": "men",
+      "slug": "men"
+    },
+    {
+      "id": 3,
+      "name": "new fasiondf",
+      "slug": "new-fasiondf"
+    },
+    {
+      "id": 4,
+      "name": "new omaer",
+      "slug": "new-omaer"
+    },
+    {
+      "id": 5,
+      "name": "MEn Fasion",
+      "slug": "men-fasion"
+    },
+    {
+      "id": 6,
+      "name": "Molie Phone",
+      "slug": "molie-phone"
+    },
+    {
+      "id": 7,
+      "name": "Shos",
+      "slug": "shos"
+    },
+    {
+      "id": 8,
+      "name": "Babye is ",
+      "slug": "babye-is-"
+    }
+  ]
+}
